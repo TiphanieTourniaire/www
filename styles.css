@@ -1,4 +1,33 @@
 body {
-  background: #dedede;
+  background: #fafafa;
   color: #333;
+  font-family: 'Poppins', sans-serif;
+/*  background-image: url(../profil.jpg);
+*/background-position: top;
+  background-repeat: no-repeat;
 }
+
+.container {
+  max-width: 1024px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 800;
+  margin-bottom: 1.3em;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+
+.avatar {
+  display: block;
+  width: 200px;
+  border-radius: 50%;
+  margin: 5em auto;
+}
+
